@@ -66,5 +66,5 @@ Go to **http://127.0.0.1:5000/** to access the web app.
 ---
 
 ## 💡 Credits
-Developed by [Your Name] as part of an AI project on **Fake News Detection**.
+Developed by Nadia Imtiaz as part of an AI project on **Fake News Detection**.
 
